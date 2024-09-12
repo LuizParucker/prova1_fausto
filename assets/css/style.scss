@@ -1,0 +1,20 @@
+/* assets/css/styles.scss */
+@import 'header';
+@import 'menu';
+@import 'footer';
+@import 'cars';
+@import 'grid';
+
+
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
